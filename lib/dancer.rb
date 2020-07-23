@@ -1,3 +1,6 @@
+require_relative './class_methods_module.rb'
+
+
 class Dancer
   include Dance
   extend MetaDancing
